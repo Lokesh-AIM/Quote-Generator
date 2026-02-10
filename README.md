@@ -1,2 +1,41 @@
-# Quote-Generator
-A simple Quote Generator built using HTML, CSS, and JavaScript that displays motivational quotes one by one when the user clicks a button. It also allows users to instantly share quotes on Twitter. The project demonstrates DOM manipulation, event handling, and array-based state management.
+# 📜 Quote Generator
+
+A clean and interactive Quote Generator web app that displays inspirational quotes dynamically. Users can generate new quotes with a button click and share them directly on Twitter.
+
+---
+
+## 🚀 Features
+
+- Displays motivational quotes dynamically  
+- Shows author name with each quote  
+- Generates quotes one by one  
+- Twitter share functionality  
+- Clean and responsive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript (Vanilla JS)  
+
+---
+
+
+---
+
+## ⚙️ How It Works
+
+- Quotes are stored inside a JavaScript array.
+- Clicking the **New Quote** button displays the next quote.
+- After reaching the last quote, it loops back to the first.
+- The Tweet button opens Twitter with the currently displayed quote.
+
+---
+
+## ▶️ How To Run
+
+1. Clone the repository
+   ```bash
+   git clone <your-repo-link>
